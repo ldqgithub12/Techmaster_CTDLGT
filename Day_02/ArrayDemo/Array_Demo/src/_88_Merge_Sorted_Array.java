@@ -1,4 +1,6 @@
+package PACKAGE_NAME;
 import java.util.Arrays;
+
 
 public class _88_Merge_Sorted_Array {
     public static void mergeSortedArray(int[] a1,int n, int[] a2,int m){
