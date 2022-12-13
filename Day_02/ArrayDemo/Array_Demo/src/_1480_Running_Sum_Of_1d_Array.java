@@ -5,12 +5,8 @@ import java.util.Arrays;
 public class _1480_Running_Sum_Of_1d_Array {
     public static int[] runningSum(int[] nums) {
         int n = nums.length;
-        int sum = nums[0];
-        int i = 1;
-        while (i<n){
-            sum += nums[i];
-            nums[i] = sum;
-            i++;
+        for (int i=1;i<n;i++){
+            nums[i] = nums[i]+nums[i-1];
         }
         return nums;
     }
