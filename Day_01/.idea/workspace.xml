@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="459a1254-45d5-4d43-be72-8847794e033b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day_02/ArrayDemo/Array_Demo/src/_1295_Find_Numbers_with_Even_Number_of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_02/ArrayDemo/Array_Demo/src/_1295_Find_Numbers_with_Even_Number_of_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_03/Sort_algorithm/Sort_algorithm/src/_2404_Most_Frequent_Even_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_03/Sort_algorithm/Sort_algorithm/src/_349_Intersection_Of_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_04/DeQuy/src/Fibonanci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_04/DeQuy/src/GiaiThua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day_04/DeQuy/src/_204_Power_Of_Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01/src/_Single_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/src/_Single_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Windows 10/Desktop/Git_project/Techmaster_CTDLGT/Day_02"
+    "last_opened_file_path": "C:/Users/Windows 10/Desktop/Git_project/Techmaster_CTDLGT/Day_03"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
