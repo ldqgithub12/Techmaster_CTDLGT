@@ -6,10 +6,11 @@ public class _204_Power_Of_Two {
 
     private static boolean twoPower(int i, int n) {
         if (i>n) return false;
-        else if (i==n){
-            return true;
+        else{
+            if (i==n)
+                return true;
         }
-        else return twoPower(i*2,n);
+        return twoPower(i*2,n);
     }
 
     public static void main(String[] args) {
