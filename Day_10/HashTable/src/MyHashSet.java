@@ -26,10 +26,14 @@ public class MyHashSet {
         int indexOfKey = bucket.indexOf(key);
         return indexOfKey != -1;
     }
-//    public void remove(int key){
-//        int hashIndex = hashFunction(key);
-//        hashSetArray[hashIndex] = false;
-//    }
+    public void remove(int key){
+        int hashIndex = hashFunction(key);
+        List<Integer> bucket = hashSetArray[hashIndex];
+        int indexOfKey = bucket.indexOf(key);
+        if (indexOfKey != -1){
+            bucket.remove(indexOfKey);
+        }
+    }
     private int hashFunction(int key){
         return key%size;
     }
